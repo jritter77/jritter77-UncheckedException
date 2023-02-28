@@ -15,5 +15,7 @@ public class Lab {
      */
     public void throwUncheckedException(){
 
+        int result =  3 / 0;
+
     }
 }
